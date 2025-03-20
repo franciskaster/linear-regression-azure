@@ -1,4 +1,4 @@
-# Picolés-Vendas-Preditivas
+# Vendas Preditivas de Picolés com Linear Regression no Azure ML
 
 ## Visão Geral
 Este projeto foi desenvolvido para prever a quantidade de picolés vendidos com base na temperatura do dia.
