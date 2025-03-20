@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para prever a quantidade de picolés vendidos com 
 O projeto busca prever quantos picolés um vendedor vai vender no dia, de acordo com a temperatura do dia, para evitar desperdícios ou perdas.
 
 ## Tecnologias Utilizadas
-- **Azure**  – Base do projeo.
+- **Azure**  – Base do projeto.
 - **MLflow** – Para gerenciamento e registro de experimentos.
 
 
